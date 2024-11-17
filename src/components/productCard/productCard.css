@@ -1,7 +1,7 @@
 .producto {
   width: 300px;
   padding: 10px;
-  border: 1px dashed black;
+  border: 1px dashed lightgrey;
   margin: 10px;
   text-align: center;
 }

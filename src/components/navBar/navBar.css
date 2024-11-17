@@ -28,3 +28,7 @@
     margin: 5px;
     font-size: 22px;
 }
+
+.widgetLink {
+    text-decoration: none;
+}
